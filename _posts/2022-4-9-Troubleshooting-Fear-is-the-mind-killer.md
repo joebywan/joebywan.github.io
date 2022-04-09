@@ -3,7 +3,7 @@ layout: post
 title: Fear is the mind killer!
 ---
 
-Fear really is the mind killer.
+It roots you in place, where you don't want to be, regardless of if you already know that taking a step will be better for you.
 
 ![Fear is the mind killer]({{ site.baseurl }}/images/fearIsTheMindKiller.jpeg)
 
