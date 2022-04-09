@@ -3,8 +3,6 @@ layout: post
 title: Fear is the mind killer!
 ---
 
-[Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
-
 Fear really is the mind killer.
 
 ![Fear is the mind killer]({{ site.baseurl }}/images/fearIsTheMindKiller.jpeg)
