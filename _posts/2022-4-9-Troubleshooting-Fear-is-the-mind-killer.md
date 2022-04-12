@@ -5,6 +5,8 @@ title: Fear is the mind killer!
 
 This is an little thing I've written previously, but I wanted to put it up here.  I'm not immune to it, but I feel that talking about it more helps people be more conscious and acknowledge it while not being controlled by it.
 
+Being that I've just recently gotten back into IT, my wife's changing careers, and I've been trying to help other grads from the Re/Start program or any other newbies to the industry I feel it's pertinent.
+
 It roots you in place, where you don't want to be, regardless of if you already know that taking a step will be better for you.
 
 ![Fear is the mind killer]({{ site.baseurl }}/images/fearIsTheMindKiller.jpeg)
