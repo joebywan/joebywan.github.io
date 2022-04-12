@@ -1,2 +1,13 @@
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 http://www.jekyllnow.com/Markdown-Style-Guide/
+
+new post:
+---
+layout: post
+title: You're up and running!
+---
+Text goes here
+
+Inline image link: ![_config.yml]({{ site.baseurl }}/images/config.png)
+
+URL link: [Jekyll Now repository](https://github.com/barryclark/jekyll-now)
