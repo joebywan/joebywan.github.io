@@ -19,4 +19,4 @@ As a mate of mine put it, you're making it just in time, not just in case.
 
 So I know it's a process change, and will require modifying habits to ensure it's happening every time, but you will definitely see results.  Plus documentation's like any skill, the more practice you have with it, the better you'll get at it.
 
-![whoosah]({{ site.baseurl }}/images/piles-of-documentation.jpg)
+![documentation]({{ site.baseurl }}/images/piles-of-documentation.jpg)

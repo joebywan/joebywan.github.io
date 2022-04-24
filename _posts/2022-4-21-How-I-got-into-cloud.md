@@ -25,4 +25,4 @@ I've been doing talks for them to the grads when they finish to help out with id
 
 I hope these articles will provide a reference point I can point the grads or anyone else to when they're after advice on what they should do to get into cloud.
 
-![whoosah]({{ site.baseurl }}/images/man-installing-cloud.jpg)
+![buildingClouds]({{ site.baseurl }}/images/man-installing-cloud.jpg)
