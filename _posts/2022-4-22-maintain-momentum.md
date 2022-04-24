@@ -26,7 +26,7 @@ I could have tried something ambitious like 1 per day, but again, we're starting
 A: Experience in setting, fulfilling and achieving goals.
 B: The confidence that comes with ticking something off your list.
 
-So when you set yourself a goal, tell others about it.  It goes from being a goal that exists solely in your head to being out there.  It's a thing now.  It makes you feel more accountable and gives more pressure to stick with it.
+So when you set yourself a goal, tell others about it.  It goes from being a goal that exists solely in your head to being out there.  It's a thing now.  It makes you feel more accountable and gives more pressure to stick with it.  I've told you about it.  I'm definitely accountable now :D
 
 Continuing with myself as the example.  I set myself the goal to get a website setup within a week.  You could consider that as a sub-goal to 1 article/week on LinkedIn, either way, it's something to achieve.
 
