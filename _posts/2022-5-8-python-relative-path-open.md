@@ -21,4 +21,6 @@ with open (os.path.join(currentDirectory, './instancesList.json'), 'r') as f:
   data = json.load(f)
 ```
 
+![whatTheHell]({{ site.baseurl }}/images/jackiechanwtf.png)
+
 Rather frustrating and wasteful in my opinion.  That said, if there is an easier way, let me know.  I'd love to see it!
