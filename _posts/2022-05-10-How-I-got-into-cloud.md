@@ -3,7 +3,7 @@ layout: post
 title: How I got into cloud
 ---
 
-Funnily enough when I started at my first Managed Services job the year AWS released their first product.  Back then we were doing onsite server setups or data centre work aswell as desktop support.
+Funnily enough when I started at my first Managed Services job it was completely on premises work & coincidentally the same year AWS released their first product.  Back then we were doing onsite server setups or data centre work aswell as desktop support.
 
 I worked there for 3 years, loved the variety of work due to getting problems from all sorts of different tech to work on.
 
@@ -23,6 +23,6 @@ After having been through it, I've kept in touch because I saw areas where they 
 
 I've been doing talks for them to the grads when they finish to help out with ideas on what to do next.  Not everyone's as lucky as myself or has the previous experience I did, so I did up a bunch of slides which I give out, and have been giving advice afterwards when asked.
 
-I hope these articles will provide a reference point I can point the grads or anyone else to when they're after advice on what they should do to get into cloud.
+I hope this series of articles will provide a reference point I can point the grads or anyone else to when they're after advice on what they should do to get into cloud.
 
 ![buildingClouds]({{ site.baseurl }}/images/man-installing-cloud.jpg)
