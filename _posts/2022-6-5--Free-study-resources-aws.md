@@ -17,3 +17,5 @@ AWS are constantly broadcasting that they do free training.  There's a bunch of 
 * [github.com/acantril/learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs) Step by step labs created by Adrian Cantrill.
 
 Considering how long this has been, I think I'm going to have to split this up into smaller sections.  Stay tuned for articles on Python, Redhat, Terraform, Docker, Kubernetes & whatever else I can think of between now and then.
+
+![AWS]({{ site.baseurl }}/images/AWS_logo.png)
