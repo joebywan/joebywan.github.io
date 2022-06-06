@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Free Study Resources
+title: Free Study Resources - AWS
 ---
 
 So you want to study, expand your horizons, but the wallet's a little light?  Never fear, because there's some really awesome free study material out there.
