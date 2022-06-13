@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AWS SSO conditional permissions based on tags
+title: AWS SSO conditional permissions for individual users based on tags
 ---
 
 I had a client using AWS Cloud9 that had an issue where the users were managing to tax their instances to the point they'd lock up every now and then.
