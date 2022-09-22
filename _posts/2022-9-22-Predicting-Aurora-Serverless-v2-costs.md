@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to compare RDS to Aurora Serverless v2 costs
+title: Comparing costs between RDS & Aurora Serverless v2
 ---
 
 ## Comparing apples to oranges?
