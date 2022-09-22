@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Free Study Resources - AWS
+title: How to compare RDS to Aurora Serverless v2 costs
 ---
 
 ## Comparing apples to oranges?
