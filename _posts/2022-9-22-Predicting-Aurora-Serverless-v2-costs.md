@@ -37,6 +37,6 @@ Make a copy of the sheet, clone the repo and you should be good to configure the
 
 In the sheet, it should be self explanatory, set your current instance size & specs, then you're good to import the data.  It'll even give you shiny charts you can show off to your family!
 
-Feel free to hit me up on LinkedIn if you've got any questions, I post these on there aswell.
+Feel free to hit me up on [the LinkedIn Article](https://www.linkedin.com/pulse/comparing-costs-between-rds-aurora-serverless-v2-joseph-howe) if you've got any questions, I post these on there aswell.
 
 ![AWS]({{ site.baseurl }}/images/auroraserverlessv2.jpg)
