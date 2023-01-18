@@ -11,7 +11,7 @@ Too many times I'd field questions about someone's job hunting experience to fin
 
 ## Here's my tips for resume writing:
 
-![Resume]({{ site.baseurl }}/images/resume.jpg)
+![Resume]({{ site.baseurl }}/images/resume.png)
 
 Before reading these, keep in mind that any reviewer of resumes is going to want to cut down the pile of resumes to something manageable for them to get through in a reasonable amount of time.  Like anyone else, they're probably spinning multiple plates at once and can't be spending days reviewing resumes.  Rule of thumb is usually 7-10 seconds per resume for a yes/no in the first pass.  These are a guide, but I ignore them only if I have a VERY obvious reason to, otherwise it's just giving more reason for the resume to be cut from the pile before being read.
 
