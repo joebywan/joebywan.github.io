@@ -46,7 +46,7 @@ The bad jobs you are spammed with, they're the ones they weren't able to fill fr
 
 # I'm not getting anywhere after applying for a role
 
-I've seen many people with much more technical expertise than I have issues getting interviews after applying for roles.  When I dig deeper, it's usually because they're applying for roles and waiting for the interview to come.
+I've seen many people with much more technical expertise than I, have issues getting interviews after applying for roles.  When I dig deeper, it's usually because they're applying for roles and waiting for the interview to come.
 
 I can't stress enough the benefit of either reaching out to whoever's offering the position before or after applying.  I prefer to contact prior, then supply them with the resume.  Make sure you have some questions pre-prepared to discuss.  It lets you take the temperature of the organisation, get out any questions you have prior to applying, and usually gets you on a shortlist.
 
