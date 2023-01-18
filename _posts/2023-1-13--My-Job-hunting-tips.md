@@ -23,7 +23,7 @@ Before reading these, keep in mind that any reviewer of resumes is going to want
     1. What did you do?
     1. What did you use to do it?
     1. What benefit did it provide the business/client/team?  (Focus on money or time saved)
-- If you have a job description to work from, include keywords from the JD to draw attention, or get you through automated analysis.
+- If you have a job description(JD) to work from, include keywords from it to draw attention, or get you through automated analysis.
 - Even if you are a creative type, don't over-format the version you send people.  When put through automated analysis, the extra formatting usually breaks it and comes through as gibberish.
 - You'll be tempted to include a blurb about hard working, team player etc, it's just fluff wasting space.  Use it to list roles you're interested in, work you're interested in instead.
 - Always be updating your LinkedIn & Resume while you have a role.  When you leave you won't remember everything of value you achieved in your time, consider it a living document that should be tended to regularly instead of only unearthed when you're commencing a job hunt.
