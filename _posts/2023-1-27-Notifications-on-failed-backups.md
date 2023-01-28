@@ -3,7 +3,7 @@ layout: post
 title: Notifications on failed backups
 ---
 
-# Who cares about failed backups?
+Who cares about failed backups?
 
 In the past, all too often I've worked somewhere, or interacted with an external client that are managing backups.  When I ask how they're monitoring them, or at least receiving notifications on failures, I get looked at like I'm crazy.
 
