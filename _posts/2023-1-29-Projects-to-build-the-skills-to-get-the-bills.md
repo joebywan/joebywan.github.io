@@ -5,6 +5,8 @@ title: Projects to build the skills to get the bills
 
 People ask me the best way to learn a new skill, and how to show an employer that they have a skill during an interview.  Usually, they chase certifications for this, but there is a free method that is even better.  Build stuff!
 
+![Skills]({{ site.baseurl }}/images/skills.png)
+
 # Why should I do projects?  They don't make me any money!
 Well, that's the short-term view.  If you're doing projects, you'll be demonstrating multiple things to prospective employers.
 
