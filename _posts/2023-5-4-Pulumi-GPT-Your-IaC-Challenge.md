@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pulumi GPT Your IaC Challenge
- ---
+---
 
 Today I tried Pulumi for the first time.  I was pleasantly surprised with the bells and whistles on it.  A couple that definitely stood out were:
 
