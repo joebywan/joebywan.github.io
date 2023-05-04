@@ -12,11 +12,11 @@ Today I tried Pulumi for the first time.  I was pleasantly surprised with the be
 
 I've so far been using ChatGPT quite often, as a tool for doing grunt work quickly, but also good for learning new topics.  When I saw their Pulumi "GPT your IaC" Challenge, I figured that's a match made in heaven, lets give it a shot.
 
-The challenge requires the construction of the most complicated thing you can manage by only using Pulumi AI.  There is a command line version, but as I don't have an OpenAI API key subscription, I was using the website version at https://www.pulumi.com/ai/
+The challenge requires the construction of the most complicated thing you can manage by only using Pulumi AI.  There is a command line version, but as I don't have an OpenAI API key subscription, I was using the website version at [https://www.pulumi.com/ai/](https://www.pulumi.com/ai/)
 
-# The GPT Your IaC Challenge
+# The Challenge
 ![https://www.pulumi.com/challenge/ai-architecture/]({{ site.baseurl }}/images/challenge-ai-meta.png)
-
+[https://www.pulumi.com/challenge/ai-architecture/](https://www.pulumi.com/challenge/ai-architecture/)
 Before I get into it, I've been really happy with the code for Pulumi and the abilities of it, but I did find the AI experience quite frustrating.
 
 I figured I'd start with:
