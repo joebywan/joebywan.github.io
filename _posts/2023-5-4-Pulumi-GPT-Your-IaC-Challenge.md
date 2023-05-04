@@ -32,4 +32,4 @@ I also quite often had it cut off half way through a quite short section of code
 
 That said I did perservere and got there in the end, it took me about 3-4hrs total.  The code does what I was aiming for.  Initially the AI missed things like the route table attachment to the subnet, starting the web server and dynamically looking up the AMI ID was added after it assumed us-east-1 when I'm working in ap-southeast-2.
 
-Check out my result here: https://github.com/joebywan/pulumi/tree/main/GPTyourIaCChallenge
+Check out my result here: [https://github.com/joebywan/pulumi/tree/main/GPTyourIaCChallenge](https://github.com/joebywan/pulumi/tree/main/GPTyourIaCChallenge)
