@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pulumi GPT Your IaC Challenge
+title: Automated Least Privilege Implementation for Secure AWS Account Creation
 ---
 
 # Automated Least Privilege Implementation for Secure AWS Account Creation
