@@ -28,7 +28,3 @@ To address this, we've developed an automated solution employing AWS Lambda, Ama
 4. **Ensuring Compliance**: Many organizations have regulatory requirements or security policies that require using the POLP. This solution ensures your AWS environment complies with these policies or requirements.
 
 By adopting the POLP and using automation to manage AWS Service Control Policies, you can create a more secure, efficient, and compliant cloud environment. While it may require some time to initially set up, the long-term benefits of improved security posture, reduced risk, and time savings make it a worthwhile investment. Check out this [link](https://github.com/joebywan/tfmodules/tree/main/auto_Remove_Full_Access_SCP) - I've set it up as a Terraform module that you can employ to automatically stop the full access attachment in your organization.
-
-
-# The Challenge
-![https://www.pulumi.com/challenge/ai-architecture/]({{ site.baseurl }}/images/challenge-ai-meta.png)
