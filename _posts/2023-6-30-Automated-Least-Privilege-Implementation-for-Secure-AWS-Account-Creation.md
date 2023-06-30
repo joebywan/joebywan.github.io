@@ -3,8 +3,6 @@ layout: post
 title: Automated Least Privilege Implementation for Secure AWS Account Creation
 ---
 
-# Automated Least Privilege Implementation for Secure AWS Account Creation
-
 In recent times, AWS clients have been more security-conscious, employing Service Control Policies (SCPs) to install guardrails around their accounts. However, there's a pitfall - a new account is by default attached to the `FullAWSAccess` SCP under the root Organizational Unit (OU), allowing it free reign across all of the AWS services.
 
 ![Access Denied]({{ site.baseurl }}/images/access_denied_adobe.jpeg)
