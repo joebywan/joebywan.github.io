@@ -12,7 +12,7 @@ It turned out to be a CORS-related issue. Now, if your memory serves you as it s
 ![CORS is client side!]({{ site.baseurl }}/images/cors_is_client_side.png)
 *Picture from [Wikipedia](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)*
 
-As it turns out, **CORS is a client-side control**. The server does play a role, but it's more about informing the client-side control, not dictating the entire process. It's a vital distinction and one that we need to keep in mind when we're designing and working with APIs.
+As it turns out, **CORS is a client-side browser control**. The server does play a role, but it's more about informing the client-side control, not dictating the entire process. There's no server to server CORS requests, it's only a control implemented by browsers.  It's a vital distinction and one that we need to keep in mind when we're designing and working with APIs.
 
 This means that the server isn’t the one blocking things, it’s your browser that’s doing it!
 
