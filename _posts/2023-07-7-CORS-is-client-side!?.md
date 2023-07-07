@@ -9,7 +9,7 @@ I recently embarked on a learning journey where I decided to delve deeper into A
 
 It turned out to be a CORS-related issue. Now, if your memory serves you as it served me, you'd recollect CORS being portrayed as a server-side control in the AWS certification study materials. But, after doing a deep dive, I came to a realisation that shattered my initial understanding of CORS.
 
-![CORS is client side!]({{ site.baseurl }}/images/CORS.png)
+![CORS is client side!]({{ site.baseurl }}/images/cors_is_client_side.png)
 
 As it turns out, CORS is more of a client-side control. The server does play a role, but it's more about informing the client-side control, not dictating the entire process. It's a vital distinction and one that we need to keep in mind when we're designing and working with APIs.
 
