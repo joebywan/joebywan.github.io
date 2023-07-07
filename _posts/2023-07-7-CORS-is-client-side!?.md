@@ -3,7 +3,7 @@ layout: post
 title: CORS is client side!?
 ---
 
-Today we're diving into the topic of *AWS API Gateway* and *CORS*. For those who may not know, CORS stands for Cross-Origin Resource Sharing. It's a subject that often induces a collective groan, but it's crucial to our web-based world, and there's always more to learn.
+Today we're diving into the topic of **AWS API Gateway** and **CORS**. For those who may not know, CORS stands for Cross-Origin Resource Sharing. It's a subject that often induces a collective groan, but it's crucial to our web-based world, and there's always more to learn.
 
 I recently embarked on a learning journey where I decided to delve deeper into AWS API Gateway, deploying it using Terraform. It seemed straightforward at the onset, but little did I know, I was heading towards a hurdle.  Everything worked from the API Gateway test functionality in AWS Console, but remotely, nothing worked.
 
@@ -11,7 +11,7 @@ It turned out to be a CORS-related issue. Now, if your memory serves you as it s
 
 ![CORS is client side!]({{ site.baseurl }}/images/cors_is_client_side.png)
 
-As it turns out, *CORS is a client-side control*. The server does play a role, but it's more about informing the client-side control, not dictating the entire process. It's a vital distinction and one that we need to keep in mind when we're designing and working with APIs.
+As it turns out, **CORS is a client-side control**. The server does play a role, but it's more about informing the client-side control, not dictating the entire process. It's a vital distinction and one that we need to keep in mind when we're designing and working with APIs.
 
 This means that the server isn’t the one blocking things, it’s your browser that’s doing it!
 
