@@ -7,7 +7,7 @@ This is a bit of a brain vomit/stream of consciousness, writing it as a I play w
 ![stream_of_consciousness]({{ site.baseurl }}/images/stream_of_consciousness.jpg)
 
 # The problem
-I'd been told a while bac the M1 Mac's couldn't use more than 1 external monitor, so I got myself a nice 34" ultrawide Dell monitor.
+I'd been told a while back the M1 Mac's couldn't use more than 1 external monitor, so I got myself a nice 34" ultrawide Dell monitor.
 
 Then I was informed by a coworker that we've got M1 Pro's! I'd never bothered to check (facepalm).
 
