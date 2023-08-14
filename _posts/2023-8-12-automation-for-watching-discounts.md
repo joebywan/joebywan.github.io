@@ -11,7 +11,7 @@ I'd been told a while back the M1 Mac's couldn't use more than 1 external monito
 
 Then I was informed by a coworker that we've got M1 Pro's! I'd never bothered to check (facepalm).
 
-I now want to find another one, but it's a want, not need situation, so I'd like tickle my inner miser to save some coin.
+I now want to find another one, but it's a want, not need situation, so I'd like to tickle my inner miser to save some coin.
 
 Enter stage left... Serverless!
 ![Cost optimisation!]({{ site.baseurl }}/images/cost_optimisation.png)
