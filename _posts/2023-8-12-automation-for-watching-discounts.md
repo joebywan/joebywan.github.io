@@ -71,4 +71,6 @@ Then I want to tie it into SNS to let me know where these sweet sweet savings ca
 
 I don't NEED a frontend, so if I'm going to worry about that, it'll be at the end/never.
 
+Have a gander at the code, happy for constructive criticism/suggestions: [https://github.com/joebywan/priceChecker](https://github.com/joebywan/priceChecker)
+
 Anyway, rather than a LOTR length snooze fest, I'll split this up into more manageable installments.  Ciao!
