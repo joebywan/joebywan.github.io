@@ -36,13 +36,3 @@ Then Eventbridge Scheduler, it's able to take an infinite number of instances pe
 ![Code]({{ site.baseurl }}/images/code.png)
 So thanks for listening, I've got the module, docs and an example to deploy it up in my tfmodules github repo.  Give it a try, I'd love feedback! 
 [https://github.com/joebywan/tfmodules/blob/main/free_tags_instance_scheduler/README.md](https://github.com/joebywan/tfmodules/blob/main/free_tags_instance_scheduler/README.md)
-
-
-![Picture_Example]({{ site.baseurl }}/images/resume.png)
-
-- List item 1
-- List item 2
-    1. Sub numbered item 1
-    1. Sub numbered item 2
-
-![Job Hunt]({{ site.baseurl }}/images/job.jpg)
