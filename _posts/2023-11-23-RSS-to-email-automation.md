@@ -5,15 +5,13 @@ title: RSS in your email all through AWS & Terraform
 
 # I shouldn't miss a sale again... RSS-to-Email Terraform Module Just in Time for Black Friday
 
-I'm a sucker for a sale, and realised that I'd missed one for a subscription provider I use. The timing couldn't be more perfect though, as Black Friday looms on the horizon, I've developed a solution that ensures I—and anyone else who uses it—won't miss out on these once-a-year deals.
-
-Now I do ask that if you read it, please, I'd like some feedback on how I'm doing the Lambda layer with Make.  Is there a better way to do this?  I'm all ears.  At the bottom is the link!
-
-## The Genesis: A Missed Opportunity
-
 ![Picture]({{ site.baseurl }}/images/missed_opportunity.png)
 
+I'm a sucker for a sale, and realised that I'd missed one for a subscription provider I use. The timing couldn't be more perfect though, as Black Friday looms on the horizon, I've developed a solution that ensures I—and anyone else who uses it—won't miss out on these once-a-year deals.
+
 It began with a realization that had me kicking myself. A fantastic sale had slipped through my fingers because I hadn't been monitoring the store's RSS feed. In today's fast-paced world, who has the time to constantly check for updates? That's when it dawned on me: I needed a system to bring these deals directly to my phone.
+
+Now I do ask that if you read it, please, I'd like some feedback on how I'm doing the Lambda layer with Make.  Is there a better way to do this?  I'm all ears.  At the bottom is the link!
 
 ## Crafting the Solution: Terraform, AWS Lambda, and SNS
 
