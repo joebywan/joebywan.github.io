@@ -3,8 +3,6 @@ layout: post
 title: RSS in your email all through AWS & Terraform
 ---
 
-# I shouldn't miss a sale again... RSS-to-Email Terraform Module Just in Time for Black Friday
-
 ![Picture]({{ site.baseurl }}/images/missed_opportunity.png)
 
 I'm a sucker for a sale, and realised that I'd missed one for a subscription provider I use. The timing couldn't be more perfect though, as Black Friday looms on the horizon, I've developed a solution that ensures I—and anyone else who uses it—won't miss out on these once-a-year deals.
