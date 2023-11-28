@@ -48,6 +48,10 @@ The good:
 - Offering new no code possibilities in transforming ideas into tangible applications
 - Ensuring it's a **VERY** low bar so anyone who's curious can play with it
 
+Problems I encountered:
+
+- Apparently getting it to generate on contexts of horror or lovecraft type entities it starts to lock up and not want to generate the challenges or escalation sections because it's concerned for harmful content.  No matter the prompt I've tried to provide it to alleviate it's concerns that it's harmful.  This is a bit bonkers, and has me suspecting hardcoded pre-prompt restriction?
+
 My concerns:
 
 - The pricing of this will be crucial as to whether it's just a novelty that gets forgotten about, or something that's used to test out LLM concepts.
