@@ -1,14 +1,15 @@
 ---
 layout: post
-title: # AI's Infinity Gauntlet: Sculpting D&D Adventures in a Snap
+title: AI's Infinity Gauntlet: Sculpting D&D Adventures in a Snap
 ---
+
+![budget]({{ site.baseurl }}/images/budget_infinity_gauntlet.png)
+
 Your party of adventurers are due to arrive any minute now, ready and eager to slay the undead hordes, save the princess, get that sweet loot and be regarded as the most badass in all the kingdom.
 
 Unfortunately your brain's rolled the dice and it's come up a 1.  You've got nothing.  The creative juices refuse to flow.
 
 Thankfully AWS PartyRock was released recently, and you can use it to create a D&D adventure in a snap!  (See what I did there?)
-
-![budget]({{ site.baseurl }}/images/budget_infinity_gauntlet.png)
 
 ## What is AWS PartyRock?
 
