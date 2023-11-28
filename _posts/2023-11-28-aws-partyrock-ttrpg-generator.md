@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI's Infinity Gauntlet\: Sculpting D&D Adventures in a Snap
+title: AI's Infinity Gauntlet, Sculpting D&D Adventures in a Snap
 ---
 
 ![budget]({{ site.baseurl }}/images/budget_infinity_gauntlet.png)
