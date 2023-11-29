@@ -59,4 +59,4 @@ My concerns:
 
 With its vast potential, AWS PartyRock could play a pivotal role in shaping the future of digital innovation in the cloud computing ecosystem.
 
-As is standard with my articles, here's the 'app' I made: ![https://partyrock.aws/u/joehcmd/yV-5X2KxX5/TTRPG-Adventure-Generator](https://partyrock.aws/u/joehcmd/yV-5X2KxX5/TTRPG-Adventure-Generator)
+As is standard with my articles, here's the 'app' I made: [https://partyrock.aws/u/joehcmd/yV-5X2KxX5/TTRPG-Adventure-Generator](https://partyrock.aws/u/joehcmd/yV-5X2KxX5/TTRPG-Adventure-Generator)
