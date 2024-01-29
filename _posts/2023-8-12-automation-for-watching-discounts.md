@@ -30,7 +30,7 @@ Problem is that it was using a 1hr sleep on a loop on my machine.  I'd much rath
 I slapped together some terraform I'd used in a previous API gateway experiment, changed it to use the current lambda function and was off to the races.  Hit the API gateway endpoint and no luck.
 
 ## Get logging
-End up digging further into how to enable logging on Lambda & API gateway via Terraform, which was straightforward for Lambda, but API Gateway... In Terraform, have to setup the CloudWatch log group, but providing permission to API Gateway was not how I thought.  I was using API Gateway V2, and all of the TF resources for APIV2 are seperate.  In V1 there's a "aws_api_gateway_account" resource.  In V2, there's nothing similar.  I searched for a while and couldn't find anything, gave it a shot and it worked.  IMO should be duplicated into the V2 area aswell if it's usable for both, or have a seperate 'common' resources to both versions area.  Anyway... Logging's up and working.  Unfortunately Lambda's shagged.
+End up digging further into how to enable logging on Lambda & API gateway via Terraform, which was straightforward for Lambda, but API Gateway... In Terraform, have to setup the CloudWatch log group, but providing permission to API Gateway was not how I thought.  I was using API Gateway V2, and all of the Terraform resources for APIV2 are seperate.  In V1 there's a "aws_api_gateway_account" resource.  In V2, there's nothing similar.  I searched for a while and couldn't find anything, gave it a shot and it worked.  IMO should be duplicated into the V2 area aswell if it's usable for both, or have a seperate 'common' resources to both versions area.  Anyway... Logging's up and working.  Unfortunately Lambda's shagged.
 
 ## Lambda woes
 Fix some syntax errors with my favourite AI LLM shoulder parrot and then was presented with an error that BS wasn't able to be imported... Wellll crap.
@@ -41,11 +41,11 @@ With some back and forth on how to do it, I ended up doing the following:
 1. Setup a requirements.txt with the modules I needed
 1. Build a directory containing all of those modules by using `pip install -t requirements.txt -r ./lambda_package/`
 1. Copy the lambda script into the directory
-1. Reconfigure TF to zip the new directory and upload to Lambda instead of just the script
+1. Reconfigure Terraform to zip the new directory and upload to Lambda instead of just the script
 
 Thankfully after that I had a successful test!
 
-I already had one problem I'd been putting off dealing with, which was that TF's archive_file resource didn't always recreate the zip file when I updated the script.  Now I had a 2nd problem, icky manual tasks required for packaging up the Lambda function.
+I already had one problem I'd been putting off dealing with, which was that Terraform's archive_file resource didn't always recreate the zip file when I updated the script.  Now I had a 2nd problem, icky manual tasks required for packaging up the Lambda function.
 
 ## Automate the manual deployment stuff
 I figured I've been automating everything else, lets get this package build automated.
@@ -58,9 +58,9 @@ I decided to go with Make as I'd not built something from scratch before using i
 
 While in choosing Make I'm technically not using a bash script, it's basically the same, just multiple scripts rolled up into one file.
 
-I used it to automate the TF init process, using bash logic to check if the package directory or zip file were already there, and if so, nuke them.  Means I'm starting fresh every time, so if there is a script update, it's definitely getting added into the zip.
+I used it to automate the Terraform init process, using bash logic to check if the package directory or zip file were already there, and if so, nuke them.  Means I'm starting fresh every time, so if there is a script update, it's definitely getting added into the zip.
 
-So now when I type make apply (as long as I'm authenticated on AWS properly) it'll initialise Terraform, clean up any old Lambda package builds, create a new one, re-downloading the modules, and drop the script in the directory ready for TF to zip it up and ship it off to AWS.
+So now when I type make apply (as long as I'm authenticated on AWS properly) it'll initialise Terraform, clean up any old Lambda package builds, create a new one, re-downloading the modules, and drop the script in the directory ready for Terraform to zip it up and ship it off to AWS.
 
 Works a treat!
 
