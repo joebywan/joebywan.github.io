@@ -15,6 +15,10 @@ To do so, I need logs from whenever my domain on AWS Route 53 is looked up to tr
 
 # So how am I working around it?
 
+For something to look at instead of read, here's a really basic layout of it:
+
+![Picture_Example]({{ site.baseurl }}/images/subscription_filter_router.png)
+
 To start with, AWS won't increase the limit.  So I figured if they weren't going to do the filtering for me, I'll have to.  Enter stage left... Lambda!  It's serverless, free tier means it'll cost me nothing, and it'll do the thinking and routing of actions.  So we'll setup 1 Filter to rule them all.  
 
 Using a filter pattern like so: \[,,,url="minecraft.test.com" || url="valheim.test.com" || url="palworld.test.com",...\] this will grab the server dns queries if people attempt to use it, and forward it to Lambda.
