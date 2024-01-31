@@ -21,7 +21,7 @@ For something to look at instead of read, here's a really basic layout of it:
 
 To start with, AWS won't increase the limit.  So I figured if they weren't going to do the filtering for me, I'll have to.  Enter stage left... Lambda!  It's serverless, free tier means it'll cost me nothing, and it'll do the thinking and routing of actions.  So we'll setup 1 Filter to rule them all.  
 
-Using a filter pattern like so: \[,,,url="minecraft.test.com" || url="valheim.test.com" || url="palworld.test.com",...\] this will grab the server dns queries if people attempt to use it, and forward it to Lambda.
+Using a filter pattern like so: \[,,,url="minecraft.test.com" \|\| url="valheim.test.com" \|\| url="palworld.test.com",...\] this will grab the server dns queries if people attempt to use it, and forward it to Lambda.
 
 Lambda then is responsible for parsing the logs, which was a puzzle in itself.  AWS helpfully (not) sends the log entries encoded in Base64 ASWELL as Gzip compressed.  So a couple of steps and loading the json gets it into python.
 
