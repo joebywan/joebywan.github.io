@@ -35,6 +35,8 @@ I can then pull the URL that was queried, and use the subdomain that was sought 
 
 So while I'm happy my problem's solved, it's a little meh in that I now have to do two seperate deployments.  One for the filter router, and then another for each server.  Thankfully, I'm building it all in Terraform, making it easy to update, modify, tear it down, build it up.
 
+For those that this likely edge case assists, I made a module in Terraform.  Head over to my Github [here](https://github.com/joebywan/tfmodules/tree/main/subcription-filter-router) for it.
+
 There'll be more, I'm keen to get this sorted, so I can focus on playing with my mates.  Future installments are likely to discuss:
 
 - Setting it up to automatically update Route53's DNS entry with the dynamic ECS Task IP
