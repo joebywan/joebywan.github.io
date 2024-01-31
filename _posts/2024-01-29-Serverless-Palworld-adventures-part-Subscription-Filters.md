@@ -3,6 +3,8 @@ layout: post
 title: Serverless Palworld Adventures Part - Subscription Filters
 ---
 
+![Picture_Example]({{ site.baseurl }}/images/palworld_grizzbolt.png)
+
 Bare with me while I wander off topic a little.  Myself and all of my friends with basically anyone we know is playing a game called Palworld right now.  I wanted to setup a dedicated server on the cloud to avoid home internet issues, the server being on etc.  The solution I've used previously uses AWS CloudWatch Logs Subscription Filters.  In working on this, I realised that AWS only allows 2 filters per CloudWatch Log Group.
 
 So... how are we going to make this work anyway??
