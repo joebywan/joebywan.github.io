@@ -15,11 +15,15 @@ The server I want to setup is running on Elastic Container Service(ECS) and setu
 
 To do so, I need logs from whenever my domain on AWS Route 53 is looked up to trigger automation to start the server... I was doing this with query logs for the hosted zone to CloudWatch with Subscription Filters, which I now know isn't a scalable solution due to restrictions.
 
-# So how am I working around it?
+# How's it all going together?
 
 For something to look at instead of read, here's a really basic layout of it:
 
 ![Picture_Example]({{ site.baseurl }}/images/subscription_filter_router.png)
+
+I've got a Domain hosted in Route53, and with query logging, any time anyone uses DNS to lookup any address for the domain, it'll get dumped to cloudwatch logs thanks to query logging.  Then cloudwatch logs has a subscription filter over it, and based off which query happens, I want lambda to do something.
+
+# So how am I working around it?
 
 To start with, AWS won't increase the limit.  So I figured if they weren't going to do the filtering for me, I'll have to.  Enter stage left... Lambda!  It's serverless, free tier means it'll cost me nothing, and it'll do the thinking and routing of actions.  So we'll setup 1 Filter to rule them all.  
 
