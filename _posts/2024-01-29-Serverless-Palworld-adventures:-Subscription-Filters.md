@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Serverless Palworld Adventures Part - Subscription Filters
+title: Serverless Palworld Adventures - Subscription Filters
 ---
 
 ![Picture_Example]({{ site.baseurl }}/images/palworld_grizzbolt.jpg)
