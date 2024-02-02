@@ -7,7 +7,7 @@ As part of trying to setup a serverless Palworld server, I needed to be able to 
 
 Unfortunately I can't be like Lifmunk here and just demand it!
 
-[Lifmunk_uzi]({{ site.baseurl }}/images/palworld_lifmunk_uzi.png)
+![Picture_Example]({{ site.baseurl }}/images/palworld_lifmunk_uzi.png)
 
 ## How I've done it in the past
 
@@ -17,7 +17,7 @@ So with the Minecraft server I run, I used the method found [here](https://githu
 
 Well previously I've used [Gamedig](https://www.npmjs.com/package/gamedig) which works well too, send the command, check for correct output, and you're off to the races.  Problem is that Gamedig's got some bugs with regard to Palworld and isn't working!
 
-![my_tantrum]({{ site.baseurl }}/images/i_want_it_now.png)
+![my_tantrum]({{ site.baseurl }}/images/i_want_it_now.jpg)
 *I may have re-enacted this...*
 
 I then tried to adapt the TCP method above, figuring that while I can see the UDP listening, I can't see active connections, but I can see when UDP comes in from an outside source, only for a limited time.  There is a way to modify the timer before the UDP entries are removed from the list, but I was concerned modifying it might cause issues with the other container as they're sharing the adapter.
