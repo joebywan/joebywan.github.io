@@ -9,7 +9,7 @@ As part of my day to day, I'm quite often asked for career advice by those aroun
 
 Lately I've had plenty of questions from people either trying to break into, or get out of(move up from) a juniour role.  
 
-Incase there's any confusion, here's some prefixes used to signal these are:
+Incase there's any confusion, here's some prefixes used for juniour roles:
 
 * Assistant
 * Associate
