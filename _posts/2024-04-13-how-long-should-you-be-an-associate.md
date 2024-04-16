@@ -7,7 +7,7 @@ title: How long should you be an associate?
 
 As part of my day to day, I'm quite often asked for career advice by those around me.  This post has been niggling at my brain for a bit, and my pc's died, so without video games, lets talk getting in/moving up in the industry :)
 
-Lately I've had plenty of questions from people either trying to break into, or get out of(move up from) a juniour role.  
+Lately I've had plenty of questions from people either trying to break into, or get out of(move up from) a junior role.  
 
 Incase there's any confusion, here's some prefixes used to signal these are:
 
@@ -15,7 +15,7 @@ Incase there's any confusion, here's some prefixes used to signal these are:
 * Associate
 * Apprentice
 * Adjunct
-* Juniour/Junior
+* Junior
 * Trainee
 * Provisional
 
@@ -23,7 +23,7 @@ So we'll discuss those wanting to get into the industry, aswell as those wanting
 
 ## I can't get into the industry
 
-Unfortunately right now, there are not many juniour roles available, atleast in the IT industry.  Rising interest rates, and the layoffs from last year are still affecting the industry, most organisations wanting to increase output are opting to hire seniours and above to try and avoid training & getting up to speed time, aswell as hoping for more output.
+Unfortunately right now, there are not many junior roles available, atleast in the IT industry.  Rising interest rates, and the layoffs from last year are still affecting the industry, most organisations wanting to increase output are opting to hire seniours and above to try and avoid training & getting up to speed time, aswell as hoping for more output.
 
 ![Picture_Example]({{ site.baseurl }}/images/locked-out.jpg)
 
@@ -33,13 +33,13 @@ This will also let you have more items to discuss during the interview process, 
 
 If you flick back through my previous articles, I've discussed job hunting tips, projects you can do, things to study.  Happy to answer any questions if you've got any.
 
-## How long should I be a juniour for?
+## How long should I be a junior for?
 
 I believe someone dedicated to moving up should be aiming for 1-2 years.
 
 ![Picture_Example]({{ site.baseurl }}/images/moving-on-up.jpg)
 
-The thing to take into account is that juniour roles, the expectation is to increase your independence (requiring less hand-holding, shadowing, training etc) along with your job specific knowledge (tech stack/experience in the role etc).
+The thing to take into account is that junior roles, the expectation is to increase your independence (requiring less hand-holding, shadowing, training etc) along with your job specific knowledge (tech stack/experience in the role etc).
 
 So I find doing that usually involves just continuing study.  Keep learning, whether it's doing certifications, building things, reading things, whatever it takes.  As long as it reduces the time required to perform your tasks, and the load on your seniours to assist you completing tasks, you're on the right path.
 
