@@ -23,9 +23,9 @@ So we'll discuss those wanting to get into the industry, aswell as those wanting
 
 ## I can't get into the industry
 
-Unfortunately right now, there are not many junior roles available, atleast in the IT industry.  Rising interest rates, and the layoffs from last year are still affecting the industry, most organisations wanting to increase output are opting to hire seniours and above to try and avoid training & getting up to speed time, aswell as hoping for more output.
+Unfortunately right now, there are not many junior roles available, atleast in the IT industry.  Rising interest rates, and the layoffs from last year are still affecting the industry, most organisations wanting to increase output are opting to hire seniors and above to try and avoid training & getting up to speed time, aswell as hoping for more output.
 
-![Picture_Example]({{ site.baseurl }}/images/locked-out.jpg)
+![Picture_Example]({{ site.baseurl }}/images/locked-out.jpeg)
 
 My advice to those trying to get in at this time, concentrate on adding on some pertinent industry relevant certifications, and after each certification, build a project that will demonstrate your knowledge.
 
@@ -41,7 +41,7 @@ I believe someone dedicated to moving up should be aiming for 1-2 years.
 
 The thing to take into account is that junior roles, the expectation is to increase your independence (requiring less hand-holding, shadowing, training etc) along with your job specific knowledge (tech stack/experience in the role etc).
 
-So I find doing that usually involves just continuing study.  Keep learning, whether it's doing certifications, building things, reading things, whatever it takes.  As long as it reduces the time required to perform your tasks, and the load on your seniours to assist you completing tasks, you're on the right path.
+So I find doing that usually involves just continuing study.  Keep learning, whether it's doing certifications, building things, reading things, whatever it takes.  As long as it reduces the time required to perform your tasks, and the load on your seniors to assist you completing tasks, you're on the right path.
 
 Where it gets tricky is that if you're at the same level for 2+ years, you really need to think long and hard about whether you are able to advance where you're at, or whether a relocation to a different workplace will get you the promotion.
 
