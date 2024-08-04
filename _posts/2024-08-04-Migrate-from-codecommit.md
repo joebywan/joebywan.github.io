@@ -3,13 +3,14 @@ layout: post
 title: The Lights Have Come On in the AWS CodeCommit Club, Where to Go Now?
 ---
 
+![bye_codecommit]({{ site.baseurl }}/images/no_codecommit.png)
+
+
 [Imagine you're at your local bar.](https://www.youtube.com/watch?v=xGytDsqkQY8) It's not the best, but it's convenient, close to your other regular spots, so you still go there despite its mediocrity.
 
 Suddenly, the lights snap on unexpectedly, jarring you into a blinding alert state. The bar's closed? When did that happen? You notice a few people dancing in the corner, oblivious to the signals to get out. You decide it's best to grab your stuff and stumble out onto the street, hurriedly thinking over your options for where to keep the party going.
 
 That's been my experience with AWS CodeCommit. It's not great, it'll do, but the most attractive bit is that it's on the same platform as the other AWS services I use. Then suddenly, [people are saying that it's not allowing access, but you can still get in](https://github.com/SummitRoute/aws_breaking_changes/?utm_source=substack&utm_medium=email). Then you see on a news site that [AWS is now communicating through their VP via X instead of official blogs](https://x.com/jeffbarr/status/1818461689920344321).
-
-![Git_R_Done]({{ site.baseurl }}/images/no_codecommit.png)
 
 So as far as I'm concerned, the writing's on the wall. Let's go somewhere else.
 
