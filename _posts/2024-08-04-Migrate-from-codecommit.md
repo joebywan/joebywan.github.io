@@ -65,7 +65,7 @@ Please do your research, but here are a couple of well-known options out there t
 
 ![Git_R_Done]({{ site.baseurl }}/images/git_r_done.jpg)
 
-            See what I did there?
+See what I did there?
 
 ### Quick Rundown
 
