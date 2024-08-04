@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Lights Have Come On in the AWS CodeCommit Club: Where to Go Now?
+title: The Lights Have Come On in the AWS CodeCommit Club, Where to Go Now?
 ---
 
 [Imagine you're at your local bar.](https://www.youtube.com/watch?v=xGytDsqkQY8) It's not the best, but it's convenient, close to your other regular spots, so you still go there despite its mediocrity.
