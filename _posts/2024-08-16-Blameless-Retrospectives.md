@@ -3,7 +3,7 @@ layout: post
 title: Has Blame robbed us of space bases?
 ---
 
-![Picture_Example]({{ site.baseurl }}/images/whatif.jpg)
+![Picture_Example]({{ site.baseurl }}/images/spacebase.jpg)
 
 In the wise words of the Watcher: 'where a single choice can branch out into infinite realities, creating alternate worlds from the ones you know. I am the Watcher. I am your guide through these vast new realities. Follow me and ponder the question... "What if?"'
 
@@ -62,4 +62,4 @@ In these alternate realities, perhaps we would be living in a world where space 
 
 Lead with kindness, embrace the lessons learned from the past, and always ponder the question... What if?
 
-![Picture_Example]({{ site.baseurl }}/images/whatifwanderer.jpg)
+![Picture_Example]({{ site.baseurl }}/images/whatif.jpg)
