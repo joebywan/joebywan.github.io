@@ -42,9 +42,9 @@ Now imagine how much worse the quality of Toyota products would have been if hon
 
 ---
 
-Joe, enough of the thought experiments, let's get to the point!
+![Picture_Example]({{ site.baseurl }}/images/shame.jpg)
 
-Keep in mind that blameless doesn't mean without consequence.
+While eliminating blame does avoid shame & fear getting in the way of a progress, keep in mind that blameless doesn't mean without consequence.
 
 Focus on the root cause. Are there gaps in training, unclear expectations, or flaws in the process that are contributing to their mistakes?
 
