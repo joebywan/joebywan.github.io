@@ -50,7 +50,7 @@ Now imagine how much worse the quality of Toyota products would have been if hon
 
 ---
 
-![Picture_Example]({{ site.baseurl }}/images/shame.png)
+![Picture_Example]({{ site.baseurl }}/images/shame.jpg)
 
 While eliminating blame does avoid shame & fear getting in the way of a progress, keep in mind that blameless doesn't mean without consequence.
 
