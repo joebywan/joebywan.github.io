@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Blame may have robbed us of space bases.  What If?
+title: Has Blame have robbed us of space bases?
 ---
 
 ![Picture_Example]({{ site.baseurl }}/images/whatif.jpg)
