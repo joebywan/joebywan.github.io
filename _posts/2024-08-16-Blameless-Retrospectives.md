@@ -5,9 +5,13 @@ title: Has Blame robbed us of space bases?
 
 ![Picture_Example]({{ site.baseurl }}/images/spacebase.jpg)
 
+So before I get into it, some context. We had some outages at work, and I'm a big advocate for blameless culture. Relaxing after work this evening, I saw [this about the NSW LNPs election bungle](https://www.abc.net.au/news/2024-08-15/nsw-liberal-director-richard-shields-sacked/104231340). Immediately, all I could think was that this definitely isn't an example of blameless culture. So then I spent some rabbit hole time thinking about what else could have changed...
+
+![Picture_Example]({{ site.baseurl }}/images/whatif.jpg)
+
 In the wise words of the Watcher: 'where a single choice can branch out into infinite realities, creating alternate worlds from the ones you know. I am the Watcher. I am your guide through these vast new realities. Follow me and ponder the question... "What if?"'
 
-So before I get into it, some context. We had some outages at work, and I'm a big advocate for blameless culture. Relaxing after work this evening, I saw [this about the NSW LNPs election bungle](https://www.abc.net.au/news/2024-08-15/nsw-liberal-director-richard-shields-sacked/104231340). Immediately, all I could think was that this definitely isn't an example of blameless culture. So then I spent some rabbit hole time thinking about what else could have changed...
+
 
 ![Picture_Example]({{ site.baseurl }}/images/challengershuttle.png)
 
