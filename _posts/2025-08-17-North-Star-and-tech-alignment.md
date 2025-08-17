@@ -4,6 +4,7 @@ title: Second Star to the Right: What Peter Pan Teaches IT Teams About Alignment
 ---
 
 *“Second star to the right, and straight on till morning.”*  
+![Peter Pan]({{ site.baseurl }}/images/peter_pan.png)
 
 That’s all the Darling children needed to reach Neverland. No map, no GPS, no step-by-step instructions. Just a North Star to guide them.  
 
