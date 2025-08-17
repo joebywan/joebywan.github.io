@@ -3,6 +3,8 @@ layout: post
 title: Second Star to the Right: What Peter Pan Teaches IT Teams About Alignment
 ---
 
+# Second Star to the Right: What Peter Pan Teaches IT 
+
 *“Second star to the right, and straight on till morning.”*  
 ![Peter Pan]({{ site.baseurl }}/images/peter_pan.png)
 
