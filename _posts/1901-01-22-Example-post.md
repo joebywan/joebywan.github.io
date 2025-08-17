@@ -14,3 +14,10 @@ title: Example post
     1. Sub numbered item 2
 
 ![Job Hunt]({{ site.baseurl }}/images/job.jpg)
+
+**Bold**
+
+*Italic*
+
+<center>Centered</center>
+
